@@ -1,0 +1,5 @@
+READ ME.docx (application/vnd.openxmlformats-officedocument.wordprocessingml.document) 7984 bytes.
+2021_09_PIBIC_RelatórioFinal_HannahPlath.pdf (application/pdf) 420709 bytes.
+MINA-BR Anotadores.csv (text/csv) 150633 bytes.
+MINA-BR Rotulada.csv (text/csv) 560915 bytes.
+MINA-BR.csv (text/csv) 1156736 bytes.
